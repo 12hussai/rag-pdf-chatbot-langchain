@@ -1,0 +1,2 @@
+# rag-pdf-chatbot-langchain
+langchain langchain-community langchain-google-genai langchain-text-splitters faiss-cpu pypdf google-generativeai
